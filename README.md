@@ -32,3 +32,32 @@ Quantos pedidos foram feitos por cada cliente?
 Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
+
+# Esse repositório contém:
+O modelo conceitual do cenário de e-commerce feito no desafio anterior.
+O script do modelo lógico do banco de dados
+O script das queries e inserções afim de testar a permanência de daos e desenvolver a manimulação dos mesmos.
+
+## Perguntas sobre o banco de dados que foram respondidas.
+
+-- Quantos clientes cadastrados?
+-- Qual foi o pedido de maior e menor valor?
+-- Qual pedido já foi entregue?
+-- Qual o valor medio dos pedidos?
+-- Qual o faturamento?
+-- Quais são as entregas com observações?
+-- Qual o produto mais caro vendido?
+-- Descobrindo o id do cliente
+-- Descobrindo o id do pedido do cliente
+-- Quais os clientes cadastrados que possuem pedidos?
+-- Todos os cientes que possuem pedido ou não
+-- Qual os status dos pedidos dos clientes?              
+-- Quantos pedidos foram realizados por cada clientes?                                                         
+-- Quantas unidades de cada produto foram vendidos?                                                                                
+-- Quantos dias para a previsão de entrega dos pedidos na ordem descendente?
+-- Qual o tempo médio previsto para realizar um entrega?
+-- Algum vendededor é fornecedor?   
+-- Relação de produtos fornecedores e estoques		
+-- Relação de nomes dos fornecedores e nomes dos produtos;                      
+-- Quais cliente que somando os pedidos feitos por eles possuem valor medio maior que R$100,00?.
+  
